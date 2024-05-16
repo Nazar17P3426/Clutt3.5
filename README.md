@@ -1,2 +1,3 @@
-# CLUTT3.5
-gdi trojan
+# Clutt3.5
+C# GDI trojan by ClutterTech
+password: cluttenjoyer
